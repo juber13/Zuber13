@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zuber13
 - 👀 I’m interested in ... Html Css , last but not least Javascript!!! one of my favourite 
-- 🌱 I’m currently learning ... html , css, js , jqery , Bootstreap
+- 🌱 I’m currently learning ... html , css, js , jquery , Bootstreap
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... zuberkhan0808@gmail.com
 
