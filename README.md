@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zuber
+- 👋 Hi, I’m Juber
 - 👀 I’m interested in ... Html Css , last but not least Javascript!!! one of my favourite 
 - 🌱 I’m currently learning ... html , css, js , jquery , Bootstreap , and one cool react!!
 - 💞️ I’m looking to collaborate on ...
